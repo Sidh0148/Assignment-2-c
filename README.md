@@ -287,4 +287,4 @@ markdown
 | Product-Service | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
 | Makeline-Service| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/makeline-service.yaml) |
 | AI-Service      | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/ai-service.yaml) |
-
+| mongodb         |[Github](https://github.com/Sidh0148/Deployments/blob/main/mongodb-deployment.yaml) |
