@@ -69,12 +69,12 @@ markdown
 | AI-Service      | [Docker Hub](https://hub.docker.com/repository/docker/aakashsidhu/ai-service/general) |
 
 ## Deployment Files
-All Kubernetes manifests are located in the [Deployment-Files](./Deployment-Files/) directory.
-
-- `store-front-deployment.yaml`: Deployment for Store-Front.
-- `order-service-deployment.yaml`: Deployment for Order-Service.
-- `product-service-deployment.yaml`: Deployment for Product-Service.
-- `makeline-service-deployment.yaml`: Deployment for Makeline-Service.
-- `ai-service-deployment.yaml`: Deployment for AI-Service.
-- `mongodb-statefulset.yaml`: StatefulSet for MongoDB.
+| Service         |  Link                |
+|-----------------|----------------------------------|
+| Store-Front     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-front.yaml) |
+| Store-Admin     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-admin.yaml) |
+| Order-Service   | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
+| Product-Service | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
+| Makeline-Service| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/makeline-service.yaml) |
+| AI-Service      | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/ai-service.yaml) |
 
