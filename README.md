@@ -45,7 +45,7 @@ This is a cloud-native application developed for Best Buy, following microservic
 Provide a table linking each microservice to its repository.
 
 #### Example:
-```markdown
+markdown
 ## Microservice Repositories
 
 | Service         | Repository Link                   |
