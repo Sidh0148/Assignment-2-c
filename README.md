@@ -69,7 +69,7 @@ markdown
 | AI-Service      | [Docker Hub](https://hub.docker.com/repository/docker/aakashsidhu/ai-service/general) |
 
 ## Deployment Files
-| Service         |  Link                |
+| Service         |  .yaml Link                |
 |-----------------|----------------------------------|
 | Store-Front     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-front.yaml) |
 | Store-Admin     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-admin.yaml) |
