@@ -281,13 +281,13 @@ markdown
 ## Deployment Files
 | Service         |  .yaml Link                |
 |-----------------|----------------------------------|
-| Store-Front     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-front.yaml) |
-| Store-Admin     | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-admin.yaml) |
-| Order-Service   | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
-| Product-Service | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
-| Makeline-Service| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/makeline-service.yaml) |
-| AI-Service      | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/ai-service.yaml) |
-| mongodb         |[Github](https://github.com/Sidh0148/Deployments/blob/main/mongodb-deployment.yaml) |
+| Store-Front-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-front.yaml) |
+| Store-Admin-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/store-admin.yaml) |
+| Order-Service-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
+| Product-Service-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/order-service.yaml) |
+| Makeline-Service-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/makeline-service.yaml) |
+| AI-Service-deployment| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/ai-service.yaml) |
+| mongodb-deployment|[Github](https://github.com/Sidh0148/Deployments/blob/main/mongodb-deployment.yaml) |
 
 ## Video
 
