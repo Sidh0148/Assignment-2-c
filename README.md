@@ -288,3 +288,9 @@ markdown
 | Makeline-Service| [GitHub](https://github.com/Sidh0148/Deployments/blob/main/makeline-service.yaml) |
 | AI-Service      | [GitHub](https://github.com/Sidh0148/Deployments/blob/main/ai-service.yaml) |
 | mongodb         |[Github](https://github.com/Sidh0148/Deployments/blob/main/mongodb-deployment.yaml) |
+
+## Video
+
+| video         | Link                |
+|-----------------|----------------------------------|
+| demonstration video    | [video link](https://github.com/Sidh0148/Assignment-2-c/blob/main/2024-12-12%2022-21-01.zip) |
